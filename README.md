@@ -65,3 +65,5 @@ Además, la lógica del sistema se dividió en funciones independientes para evi
 Este proyecto permitió aplicar conceptos fundamentales de programación como estructuras de datos, funciones, ciclos y condicionales dentro de un caso práctico. Uno de los mayores desafíos fue integrar correctamente todas las capas del sistema para que trabajaran de forma coordinada.
 
 Si se desarrollara nuevamente el proyecto, se incorporaría una interfaz gráfica o una aplicación web para mejorar la experiencia del usuario, además de agregar más ejercicios, distintos niveles de dificultad y un sistema de intentos múltiples con pistas automáticas, tal como fue planteado inicialmente en los objetivos. 
+
+
