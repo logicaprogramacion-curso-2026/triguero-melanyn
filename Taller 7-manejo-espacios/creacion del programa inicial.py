@@ -1,0 +1,1 @@
+print("Hola lógica de programación")
